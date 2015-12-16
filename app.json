@@ -1,0 +1,6 @@
+{
+  "name": "Twilio Video Heroku Quickstart",
+  "description": "A barebones HTML & JavaScript application that receives a call from Twilio's Account Portal.",
+  "repository": "https://github.com/twilio/video-quickstart-javascript-heroku",
+  "keywords": ["twilio", "video"]
+}
